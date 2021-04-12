@@ -13,7 +13,12 @@ We will first complete the CNN example. We will review few major components of D
 - [An example for a more complex architecture using Keras](DL_Keras_SiameseNet_MNIST.ipynb)
 
 All notebooks are in Colab:
- https://drive.google.com/drive/folders/1br4IZGPH-ybkQvQWVHBIdorbwzqrmFxn?usp=sharing
+ https://drive.google.com/drive/u/4/folders/19ffl7D5ThqdSdybDK_X81qiSMcTzjJhc
  
 As well as the data:
- https://drive.google.com/drive/folders/15dLkXRSt1iFGsBDc2zw_w3QkMhjXE2OE?usp=sharing
+ https://drive.google.com/drive/u/4/folders/10HpS26ZPhUXaJ8FrEMuUD01-aSjoTfC7
+ 
+ 
+Paper of the week: 
+ https://arxiv.org/pdf/1710.03959.pdf
+ 
